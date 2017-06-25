@@ -1,0 +1,20 @@
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\alecbrickBreaker2\alecbrickBreaker2\bin\x86\Debug\Content\omnom.xnb
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\alecbrickBreaker2\alecbrickBreaker2\bin\x86\Debug\Content\pie.xnb
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\alecbrickBreaker2\alecbrickBreaker2\bin\x86\Debug\alecbrickBreaker2.exe
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\alecbrickBreaker2\alecbrickBreaker2\bin\x86\Debug\alecbrickBreaker2.pdb
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\alecbrickBreaker2\alecbrickBreaker2\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\alecbrickBreaker2\alecbrickBreaker2\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\alecbrickBreaker2\alecbrickBreaker2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\alecbrickBreaker2\alecbrickBreaker2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\alecbrickBreaker2\alecbrickBreaker2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\alecbrickBreaker2\alecbrickBreaker2\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\alecbrickBreaker2\alecbrickBreaker2\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\alecbrickBreaker2\alecbrickBreaker2\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\alecbrickBreaker2\alecbrickBreaker2\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\alecbrickBreaker2\alecbrickBreaker2\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\alecbrickBreaker2\alecbrickBreaker2\obj\x86\Debug\alecbrickBreaker2.csprojResolveAssemblyReference.cache
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\alecbrickBreaker2\alecbrickBreaker2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\alecbrickBreaker2\alecbrickBreaker2\obj\x86\Debug\alecbrickBreaker2.exe
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\alecbrickBreaker2\alecbrickBreaker2\obj\x86\Debug\alecbrickBreaker2.pdb
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\alecbrickBreaker2\alecbrickBreaker2\bin\x86\Debug\Content\cool car.xnb
+C:\Users\GMRInstructor\Documents\Visual Studio 2015\Projects\alecbrickBreaker2\alecbrickBreaker2\bin\x86\Debug\Content\poop.xnb
